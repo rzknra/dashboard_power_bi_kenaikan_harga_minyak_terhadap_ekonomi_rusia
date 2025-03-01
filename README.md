@@ -16,7 +16,7 @@ Dashboard Power BI ini dirancang untuk **menganalisis pengaruh harga minyak terh
 ## **Hasil**:
 Berhasil membangun dashboard interaktif yang menunjukkan dampak harga minyak terhadap perekonomian Rusia. Pada dashboard di bawah ini, diterapkan filter untuk khusus menampilkan data pada tahun 2018 saja. 
 
-![6](https://github.com/user-attachments/assets/7f226a5f-68be-463c-b8c2-5ffaee50aaba)
+![23](https://github.com/user-attachments/assets/c32fb6f0-f31b-4054-a367-e5b8265576fb)
 
 #### Interpretasi
 1. Penurunan Harga Minyak dan Dampak pada Ekonomi Rusia
