@@ -2,7 +2,7 @@
 
 Dashboard Power BI ini dirancang untuk **menganalisis pengaruh harga minyak terhadap perekonomian Rusia, dengan fokus pada indikator makroekonomi utama seperti PDB (GDP), inflasi, dan nilai tukar (EUR-RUB dan USD-RUB)**. Dashboard ini memanfaatkan berbagai visualisasi, seperti diagram batang berkelompok, diagram garis, dan matriks korelasi, guna memberikan pemahaman yang komprehensif tentang bagaimana harga minyak memengaruhi variabel-variabel tersebut dari waktu ke waktu. Desainnya mengadopsi skema warna yang terinspirasi dari bendera Rusia (biru, merah, dan putih), sehingga menciptakan tampilan yang koheren secara visual dan relevan secara budaya.
 
-## **Tanggung Jawab**:
+## **Langkah-Langkah**:
 - Mengubah regional setting aplikasi menjadi Rusia untuk memastikan format data dan angka sesuai dengan standar Rusia.
 - Menyesuaikan tipe data dari kolom-kolom pada tabel untuk memastikan keakuratan dan konsistensi data.
 - Membuat clustered bar chart untuk melihat pertumbuhan harga minyak per kuartal dalam setiap tahun, dengan menambahkan conditional formatting, di mana bar berwarna merah untuk nilai negatif dan biru untuk nilai positif.
